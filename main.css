@@ -57,7 +57,7 @@ body {
 }
 .container .nav .ul .sidebar {
   position: fixed;
-  display: block;
+  display: none;
   flex-direction: column;
   left: 84%;
   top: 12%;
